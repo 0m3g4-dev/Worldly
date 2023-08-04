@@ -11,10 +11,12 @@ The Adventures Retro Open-Source Game.
 
 Worldly Is Basically A Retro Adventures Game With 8-Bits Music, A game where you can do everything, from kill al the mobs to find the secret treasure.
 
-#Hardware, Instalation and  🔬
+#Hardware, Instalation and More  🔬
+
 Worldly Is compatible with a specifically list of Arcade Microontrollers, We recommend Kiktronic Arcade, But you can read the compatible hardware at . Please Read All Installation At Our Docs
 
 #Use As An Extension 🧩
+
 If you want to use our game as an extension, follow this steps:
 
 1. Open https://arcade.makecode.com
@@ -22,5 +24,6 @@ If you want to use our game as an extension, follow this steps:
 3. Search github.com/0m3g4-dev/Worldly
 
 #Support The Game ❤
+
 If you Want To Support Us And Put Your Name In The Credits, You can donate BTC to:
 bc1qdd6x7h5zggjuqj0mx64lgzvkxw0e20kn7042x9
