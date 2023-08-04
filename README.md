@@ -1,33 +1,26 @@
- 
+# Worldly
+
+The Adventures Retro Open-Source Game.
+![](https://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/a859d7357dac118.png)
+
+![](https://img.shields.io/badge/2.3K-players-players) ![](https://img.shields.io/badge/100+-Compatible%20Hardware-blue) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
 
-> Abra esta pagina en [https://0m3g4-dev.github.io/worldly/](https://0m3g4-dev.github.io/worldly/)
 
-## Usar como extensión
+##The Game
 
-Este repositorio puede ser añadido como una **extensión** en MakeCode.
+Worldly Is Basically A Retro Adventures Game With 8-Bits Music, A game where you can do everything, from kill al the mobs to find the secret treasure.
 
-* abra [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* haga clic en **New Project**
-* haga clic en **Extensiones** en el menú del engranaje
-* buscar **https://github.com/0m3g4-dev/worldly** e importar
+##Hardware, Instalation and  🔬
+Worldly Is compatible with a specifically list of Arcade Microontrollers, We recommend Kiktronic Arcade, But you can read the compatible hardware at . Please Read All Installation At Our Docs
 
-## Edita este proyecto ![Build status badge](https://github.com/0m3g4-dev/worldly/workflows/MakeCode/badge.svg)
+##Use As An Extension 🧩
+If you want to use our game as an extension, follow this steps:
 
-Para editar este repositorio en MakeCode.
+1. Open https://arcade.makecode.com
+2. Click On "Extensions"
+3. Search github.com/0m3g4-dev/Worldly
 
-* abra [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* haga clic en **Import** luego haga clic en **Import URL**
-* pegue **https://github.com/0m3g4-dev/worldly** y haga clic en importar
-
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/0m3g4-dev/worldly/raw/master/.github/makecode/blocks.png)
-
-#### Metadatos (utilizados para búsqueda, renderizado)
-
-* for PXT/arcade
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+##Support The Game ❤
+If you Want To Support Us And Put Your Name In The Credits, You can donate BTC to:
+bc1qdd6x7h5zggjuqj0mx64lgzvkxw0e20kn7042x9
